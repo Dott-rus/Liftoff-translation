@@ -31,17 +31,17 @@ tutorial.dialogs.cornering.exercise.advancedacromode.completed.00.00,"Вот и 
 tutorial.dialogs.cornering.exercise.advancedacromode.completed.00.01,Хотите ли вы повторить последнее упражнение этой сессии?
 tutorial.dialogs.cornering.exercise.basicsacromode.completed.00.00,Фантастическая работа!
 tutorial.dialogs.cornering.exercise.basicsacromode.completed.00.01,"Не хотите ли вы попробовать еще раз, прежде чем мы продолжим?"
-tutorial.dialogs.cornering.exercise.basicslevelmode.completed.00.00,Well done! Looks like you have that covered.
-tutorial.dialogs.cornering.playback.advancedtrack.conclusion.00.00,That was some smooth sailing. Ready to give it a go?
-tutorial.dialogs.cornering.playback.advancedtrack.lefttour.00.00,First we'll go around in counterclockwise direction. Basically just one huge circle.
-tutorial.dialogs.cornering.playback.advancedtrack.lefttour.00.01,We'll continuously and smoothly adjust <b>yaw</b> and <b>roll</b>.
-tutorial.dialogs.cornering.playback.advancedtrack.turnaround.00.00,"Okay, now we're gonna spin around this cone and then repeat the same big circle in the opposite direction."
-tutorial.dialogs.cornering.playback.basicsacromode.conclusion.00.00,There we go!
-tutorial.dialogs.cornering.playback.basicsacromode.conclusion.00.01,Ready to give it a try? Keep in mind: this is probably the hardest exercise in the series. Don't be too hard on yourself if it takes quite a few tries.
-tutorial.dialogs.cornering.playback.basicsacromode.newlap.00.00,Let's do another demonstration run first.
-tutorial.dialogs.cornering.playback.basicsacromode.newlap.00.01,Pay close attention to the <b>pitch</b> input.
-tutorial.dialogs.cornering.playback.basicsacromode.newlap.00.02,"Instead of pushing it forward like in <b>LEVEL</b>-mode, we have to bring it down a bit, to avoid driving the drone into the ground."
-tutorial.dialogs.cornering.playback.basicsacromode.pitchforward.00.00,"As usual, we start with a slight nudge to <b>pitch</b> to start going forward."
+tutorial.dialogs.cornering.exercise.basicslevelmode.completed.00.00,"Хорошо получилось! Похоже, вы справились с этой задачей."
+tutorial.dialogs.cornering.playback.advancedtrack.conclusion.00.00,Это было плавное движение. Готовы попробовать?
+tutorial.dialogs.cornering.playback.advancedtrack.lefttour.00.00,"Сначала мы пройдемся против часовой стрелки. По сути, это просто один огромный круг."
+tutorial.dialogs.cornering.playback.advancedtrack.lefttour.00.01,Мы будем постоянно и плавно регулировать <b>рысканье<b/> и <b>крен</b>.
+tutorial.dialogs.cornering.playback.advancedtrack.turnaround.00.00,"Хорошо, теперь мы покрутимся вокруг этого конуса, а затем повторим тот же большой круг в противоположном направлении."
+tutorial.dialogs.cornering.playback.basicsacromode.conclusion.00.00,Вот так!
+tutorial.dialogs.cornering.playback.basicsacromode.conclusion.00.01,"Готовы попробовать? Имейте в виду: это, пожалуй, самое сложное упражнение в серии. Не будьте слишком строги к себе, если потребуется несколько попыток."
+tutorial.dialogs.cornering.playback.basicsacromode.newlap.00.00,Давайте сначала выполним еще один демонстрационный запуск.
+tutorial.dialogs.cornering.playback.basicsacromode.newlap.00.01,Обратите особое внимание на ввод <b>угла наклона</b>.
+tutorial.dialogs.cornering.playback.basicsacromode.newlap.00.02,"Вместо того чтобы толкать его вперед, как в режиме <b>LEVEL</b>, мы должны немного опустить его вниз, чтобы избежать столкновения дрона с землей."
+tutorial.dialogs.cornering.playback.basicsacromode.pitchforward.00.00,"Как обычно, мы начинаем с легкого подталкивания к <b>pitch</b>, чтобы начать движение вперед."
 tutorial.dialogs.cornering.playback.basicsacromode.yawandrollrightbegin.00.00,"Again, as before, we push <b>yaw</b> and <b>roll</b> in the same direction for a smooth turn."
 tutorial.dialogs.cornering.playback.basicsacromode.yawandrollrightrecover.00.00,"But... coming out the corner we'll release <b>yaw</b>, while manually leveling the drone with <b>roll</b>."
 tutorial.dialogs.cornering.playback.basicslevelmode.conclusion.00.00,Alright. Now you give it a go.
@@ -275,11 +275,11 @@ community.discord.description,"Join our active Discord community and get in touc
 
 Follow up on live feeds of the Liftoff Pro League and ongoing multiplayer games."
 community.discussions,Discussions
-community.discussions.description,Participate in discussions about Liftoff and help other players on their way. Got a question or problem? Post it here. 
+community.discussions.description,Participate in discussions about Liftoff and help other players on their way. Got a question or problem? Post it here.
 community.facebook,Facebook
-community.facebook.description,Join the Liftoff Facebook community and get sneak peaks of upcoming features and updates. 
+community.facebook.description,Join the Liftoff Facebook community and get sneak peaks of upcoming features and updates.
 community.guides,Guides
-community.guides.description,Consult or create guides for quickly getting your drone fly-ready. 
+community.guides.description,Consult or create guides for quickly getting your drone fly-ready.
 community.news,Blog
 community.news.description,"Stay up to date on Liftoff's latest developments, changes and contests."
 community.twitter,Twitter
@@ -663,7 +663,7 @@ gettingstarted.gamesettingsstep.beginnersettings,New Pilot
 gettingstarted.gamesettingsstep.content,Liftoff simulates a wide range of drone systems. Select a preset below that best matches your FPV experience.
 gettingstarted.gamesettingsstep.customisesettings,You can further fine-tune your settings and preferences by clicking the button below.
 gettingstarted.gamesettingsstep.header,Game settings
-gettingstarted.gamesettingsstep.presetdescription.advanced,This preset enables all additional simulation systems to give you the most realistic FPV experience. 
+gettingstarted.gamesettingsstep.presetdescription.advanced,This preset enables all additional simulation systems to give you the most realistic FPV experience.
 gettingstarted.gamesettingsstep.presetdescription.beginner,This preset allows you to focus on the essentials of flying an FPV drone. Additional simulations are disabled.
 gettingstarted.gamesettingsstep.presetentry.axisvisualisation,Show axis visualisation
 gettingstarted.gamesettingsstep.presetentry.batterymode,Battery simulation
@@ -880,8 +880,8 @@ input.left,Left
 input.lineofsighttoggle,Line of sight Toggle
 input.nextitemeditor,Next Item (Editor)
 input.pause,Pause
-input.placeeditor,Place Pick up  Editor 
-input.previousitemeditor,Previous Item (Editor) 
+input.placeeditor,Place Pick up  Editor
+input.previousitemeditor,Previous Item (Editor)
 input.rankingtoggle,Ranking Toggle
 input.removeeditor,Remove (Editor)
 input.reset,Reset
@@ -912,7 +912,7 @@ inputsetup.buttonassign.headerassignkeyboard,ASSIGN BUTTONS - KEYBOARD
 inputsetup.buttonassign.keyboard,Keyboard
 inputsetup.buttonassign.keyboard.header,Keyboard
 inputsetup.buttonassign.keynamenone,None
-inputsetup.buttonassign.newassignment,New assignment: 
+inputsetup.buttonassign.newassignment,New assignment:
 inputsetup.buttonassign.newvalue,New value:
 inputsetup.buttonassign.pressbutton,Press a button for:
 inputsetup.buttonassign.unknown.header,Unknown
@@ -929,7 +929,7 @@ inputsetup.buttonsdefaults.menunavigation,Menu Navigation
 inputsetup.buttonsdefaults.trackbuilder,Track Builder
 inputsetup.calibrate,Calibrate
 inputsetup.calibrate.assignaxis,Assign Axis {0}
-inputsetup.calibrate.assignaxisspace,Assign Axis 
+inputsetup.calibrate.assignaxisspace,Assign Axis
 inputsetup.calibrate.axesnotset.description,One or more input axes are not set. Please set all axes manually or pick a preset.
 inputsetup.calibrate.axesnotset.header,Input not set
 inputsetup.calibrate.axissetup.axisnotset.description,One or more input axes are not set. Please set all axes manually or pick a preset.
@@ -970,7 +970,7 @@ If you are about to calibrate an RC remote, please be aware of the pre-calibrati
 
 You can ignore this message if you want to calibrate a game controller."
 inputsetup.calibrate.manualcalibration,Manual Calibration
-inputsetup.calibrate.next,Next 
+inputsetup.calibrate.next,Next
 inputsetup.calibrate.nocontroller,No Controller
 inputsetup.calibrate.notallaxesassigned,Not all axes are assigned
 inputsetup.calibrate.notallaxesassignedlist,Not all axes are assigned. [{0}]
@@ -1029,7 +1029,7 @@ inputsetup.savepreset.mode,Mode
 inputsetup.savepreset.save,Save
 inputsetup.savepreset.title,Save New Preset
 inputsetup.savinginprogress,Saving...
-inputsetup.selectcontroller.controller1,Controller 1 
+inputsetup.selectcontroller.controller1,Controller 1
 inputsetup.selectcontroller.controller2,Controller 2
 inputsetup.selectcontroller.controller3,Controller 3
 inputsetup.selectcontroller.controller4,Controller 4
@@ -1313,7 +1313,7 @@ Would you like to try to join again?"
 multiplayer.lobby.joinlobbyfailedheader,Join failed
 multiplayer.lobby.joinrandomroom,Join random room
 multiplayer.lobby.joinroom,Join room
-multiplayer.lobby.joinroom.entername,Enter the name of the room you wish to join. 
+multiplayer.lobby.joinroom.entername,Enter the name of the room you wish to join.
 multiplayer.lobby.joinroom.header,Join room
 multiplayer.lobby.joinroombyname,Join room by name
 multiplayer.lobby.joinroombynamebtn,Join room by name
@@ -1474,7 +1474,7 @@ multiplayer.registration.noliftoffaccountforemailaddress,No Liftoff account coul
 multiplayer.registration.noliftoffaccountforusername,No Liftoff account could be found for username <b>{0}</b>.
 multiplayer.registration.notreceivedordeletedverificationmail,"Did not receive, or accidentally deleted your verification mail? No worries, send us your account name or e-mail address of your Liftoff Pro account, and we'll resend it again to the e-mail address you used during registration."
 multiplayer.registration.password,Password
-multiplayer.registration.password.description,Choose a password to protect your Liftoff account. 
+multiplayer.registration.password.description,Choose a password to protect your Liftoff account.
 multiplayer.registration.passwordmin8,Password (min. 8 characters)
 multiplayer.registration.passwordnotacceptedasvalid,Your password was not accepted as a valid password.
 multiplayer.registration.passwordnotvalid,Your password is not valid.
@@ -1542,7 +1542,7 @@ multiplayer.roomcreation.disablerewind,Disable rewind
 multiplayer.roomcreation.dronechecking,Checking...
 multiplayer.roomcreation.dronenotpublic,Not public
 multiplayer.roomcreation.dronenotshared,Not shared
-multiplayer.roomcreation.enterprivateroomname,Enter private room name 
+multiplayer.roomcreation.enterprivateroomname,Enter private room name
 multiplayer.roomcreation.enterroomname,Enter a room name
 multiplayer.roomcreation.enterroomnamedots,Enter room name...
 multiplayer.roomcreation.forcebatterymanagement,Force battery management
@@ -2365,7 +2365,7 @@ store.desc.frame.dquadobsession6inch,The combination of aircraft grade aluminum 
 store.desc.frame.fibonacci4,This frame is based around two vertical 1mm carbon fiber plates with 3d-printed parts holding them together. All necessary components (including FPV) fit in between.
 store.desc.frame.gremlinboar,Flite Test's line of frames that is laminated delrin to give an awesome look.
 store.desc.frame.hyphy,"hy phy / noun
- 1. extremely rowdy, excited, or energetic. ""the whole group is gonna get super hyphy for Adam's frame"""
+1. extremely rowdy, excited, or energetic. ""the whole group is gonna get super hyphy for Adam's frame"""
 store.desc.frame.khole,Khole (noun) - An intense out of body experience where one is sometimes connected with spirits. Only a higher state of consciousness could have brought this frame to realization.
 store.desc.frame.luma5,"The Luma 5 is the ultimate all-round Freestyle quad. Its squished X symmetrical geometry ensures balanced control on all axes, and its ideal flight weight makes it perfect for maneuvering around proximity subjects."
 store.desc.frame.mistralakframe,"A new French, squished 215mm frame, designed with two bottom plates and 6mm thick arms. Every part is cut from very dense ""silky"" carbon, made in Europe. The AK is a high quality, super sturdy frame, made by the passionate pilots of Team Mistral."
@@ -2687,8 +2687,8 @@ trackeditor.dronetrigger.showtext.placeholder,Enter trigger text...
 trackeditor.editrace,Edit Race
 trackeditor.editraces,Edit Races
 trackeditor.edittrack,Edit Track
-trackeditor.enterracename,Enter Race name 
-trackeditor.entertrackname,Enter Track name 
+trackeditor.enterracename,Enter Race name
+trackeditor.entertrackname,Enter Track name
 trackeditor.export,Export
 trackeditor.export.description,Export track {0} to your documents.
 trackeditor.export.directoryalreadyexists.contents,The directory to which you would like to save already exists. This directory will get cleared. Would you like to continue?
