@@ -42,17 +42,17 @@ tutorial.dialogs.cornering.playback.basicsacromode.newlap.00.00,Давайте �
 tutorial.dialogs.cornering.playback.basicsacromode.newlap.00.01,Обратите особое внимание на ввод <b>угла наклона</b>.
 tutorial.dialogs.cornering.playback.basicsacromode.newlap.00.02,"Вместо того чтобы толкать его вперед, как в режиме <b>LEVEL</b>, мы должны немного опустить его вниз, чтобы избежать столкновения дрона с землей."
 tutorial.dialogs.cornering.playback.basicsacromode.pitchforward.00.00,"Как обычно, мы начинаем с легкого подталкивания к <b>pitch</b>, чтобы начать движение вперед."
-tutorial.dialogs.cornering.playback.basicsacromode.yawandrollrightbegin.00.00,"Again, as before, we push <b>yaw</b> and <b>roll</b> in the same direction for a smooth turn."
-tutorial.dialogs.cornering.playback.basicsacromode.yawandrollrightrecover.00.00,"But... coming out the corner we'll release <b>yaw</b>, while manually leveling the drone with <b>roll</b>."
-tutorial.dialogs.cornering.playback.basicslevelmode.conclusion.00.00,Alright. Now you give it a go.
-tutorial.dialogs.cornering.playback.basicslevelmode.conclusion.00.01,Try and make it around the track a few times before we continue.
-tutorial.dialogs.cornering.playback.basicslevelmode.yawandrollrightbegin.00.00,"To properly round the corner, you will have to use both <b>yaw</b> and <b>roll</b> at the same time."
-tutorial.dialogs.cornering.playback.basicslevelmode.yawandrollrightbegin.00.01,Push both sticks in the same direction with roughly the same amount of force.
-tutorial.dialogs.cornering.playback.basicslevelmode.yawandrollrightbegin.00.02,"Of course, you'll also still need some <b>pitch</b> to maintain enough momentum to complete the turn."
-tutorial.dialogs.cornering.playback.basicslevelmode.yawandrollrightrecover.00.00,"When coming out of a corner, simply release <b>yaw</b> and <b>roll</b>."
-tutorial.dialogs.cornering.playback.basicslevelmode.yawandrollrightrecover.00.01,"In <b>LEVEL</b> mode, the drone will automatically stabilize itself again."
-tutorial.dialogs.cornering.playback.basicsyawonly.conclusion.00.00,Ok... So didn't really work out...
-tutorial.dialogs.cornering.playback.basicsyawonly.conclusion.00.01,It's like the drone is skating on ice. It slides right past the turn!
+tutorial.dialogs.cornering.playback.basicsacromode.yawandrollrightbegin.00.00,"Cнова, как и раньше, мы направляем <b>рысканье</b> и <b>крен</b> в одном направлении для плавного поворота."
+tutorial.dialogs.cornering.playback.basicsacromode.yawandrollrightrecover.00.00,"Но... выходя из поворота, мы отпускаем <b>рысканье</b>, одновременно вручную выравнивая дрон по <b>крену</b>."
+tutorial.dialogs.cornering.playback.basicslevelmode.conclusion.00.00,Хорошо. Теперь попробуйте вы.
+tutorial.dialogs.cornering.playback.basicslevelmode.conclusion.00.01,"Постарайтесь проехать по трассе несколько раз, прежде чем мы продолжим."
+tutorial.dialogs.cornering.playback.basicslevelmode.yawandrollrightbegin.00.00,"Чтобы правильно завершить поворот, вам придется одновременно использовать <b>рысканье</b> и <b>крен</b>."
+tutorial.dialogs.cornering.playback.basicslevelmode.yawandrollrightbegin.00.01,Перемещайте стики в одном направлении с примерно одинаковой силой.
+tutorial.dialogs.cornering.playback.basicslevelmode.yawandrollrightbegin.00.02,"Конечно, вам также понадобится немного <b>питча</b>, чтобы сохранить достаточный импульс для завершения поворота."
+tutorial.dialogs.cornering.playback.basicslevelmode.yawandrollrightrecover.00.00,При выходе из поворота просто отпустите <b>рысканье</b> и <b>крен</b>.
+tutorial.dialogs.cornering.playback.basicslevelmode.yawandrollrightrecover.00.01,В режиме <b>LEVEL</b> дрон снова автоматически стабилизируется.
+tutorial.dialogs.cornering.playback.basicsyawonly.conclusion.00.00,Ладно... Так ничего и не вышло...
+tutorial.dialogs.cornering.playback.basicsyawonly.conclusion.00.01,Как будто дрон катается по льду. Он скользит прямо мимо поворота!
 tutorial.dialogs.cornering.playback.basicsyawonly.conclusion.01.00,<b>Yaw</b> alone isn't going to cut it. We'll also need to involve <b>roll</b> to make the turn.
 tutorial.dialogs.cornering.playback.basicsyawonly.conclusion.01.01,Take a look...
 tutorial.dialogs.cornering.playback.basicsyawonly.trytakecorner.00.00,Let's see if we can fly around that golf flag using just <b>yaw</b>.
@@ -238,63 +238,63 @@ tutorial.title.flyingforward,Flying forward
 tutorial.title.introduction,Introduction
 tutorial.title.lineofsight,Line-of-sight
 tutorial.title.racing,Racing
-account.offlinestatus,Offline
-account.signedinanonimousstatus,Signed in (multiplayer only)
-account.signedinstatus,Signed in
-account.signin,Sign In
-account.signinginstatus,Signing in...
-account.signingoutstatus,Signing out...
-achievements.permafrost.openwindows.counter,Windows opened: {0}/{1}
-achievements.permafrost.openwindows.header,Little helper
-batterydrainer.damaged,Battery damaged!
-batterydrainer.voltagelow,Battery voltage low.
-buttonsetup.assignment.cancel,Cancel
-buttonsetup.assignment.clearkey,Clear Key
-buttonsetup.assignment.confirm,Confirm
-buttonsetup.assignment.header,Assign Button
-buttonsetup.exitconfirm.content,"You have unsaved changes. Your changes will be lost when you go back to the main menu.
-Do you want to continue?"
-buttonsetup.exitconfirm.header,Back to main menu
-buttonsetup.panel.controller.nocontrollerconnected,No controller connected
-buttonsetup.panel.header,Assign buttons
-buttonsetup.panel.header.controller,Controller
-buttonsetup.panel.header.keyboard,Keyboard
-buttonsetup.saved.description,Button assignment saved
-buttonsetup.saved.header,Saved
-cameraangle.description,Camera Angle: {0} degrees
-colorpicker.chooseslot,Choose slot
-colorpicker.editcolors,Edit colors
-colorpicker.hexcode,Hex code
-colorpicker.title,Color picker
-comingsoon.description,Coming Soon
+account.offlinestatus,Не в сети
+account.signedinanonimousstatus,Авторизован (только для многопользовательской игры)
+account.signedinstatus,Авторизован
+account.signin,Войти
+account.signinginstatus,Входим в аккаунт...
+account.signingoutstatus,Выходим из аккаунта...
+achievements.permafrost.openwindows.counter,Открыты окна: {0}/{1}
+achievements.permafrost.openwindows.header,Маленький помощник
+batterydrainer.damaged,Аккумулятор поврежден!
+batterydrainer.voltagelow,Низкое напряжение аккумулятора.
+buttonsetup.assignment.cancel,Отмена
+buttonsetup.assignment.clearkey,Очистить
+buttonsetup.assignment.confirm,Подтвердить
+buttonsetup.assignment.header,Назначение кнопки
+buttonsetup.exitconfirm.content,"У вас есть несохраненные изменения. Ваши изменения будут потеряны при возврате в главное меню.
+Вы хотите продолжить?"
+buttonsetup.exitconfirm.header,Вернуться в главное меню
+buttonsetup.panel.controller.nocontrollerconnected,Контроллер не подключен
+buttonsetup.panel.header,Назначения кнопок
+buttonsetup.panel.header.controller,Контроллер
+buttonsetup.panel.header.keyboard,Клавиатура
+buttonsetup.saved.description,Назначение кнопок сохранено
+buttonsetup.saved.header,Сохранено
+cameraangle.description,Угол камеры: {0} градус(ов)
+colorpicker.chooseslot,Выберите слот
+colorpicker.editcolors,Редактировать цвета
+colorpicker.hexcode,HEX-код
+colorpicker.title,Выбор цвета
+comingsoon.description,Скоро будет
 community.blog,Blog
 community.discord,Discord
-community.discord.copytoclipboardcontent,The link to the Discord server has been copied to your clipboard. Go to your Discord client and paste the link in the 'Join a Server' field.
-community.discord.copytoclipboardheader,Copied to clipboard
-community.discord.description,"Join our active Discord community and get in touch with Liftoff pilots around the world.
+community.discord.copytoclipboardcontent,"Ссылка на сервер Discord была скопирована в ваш буфер обмена. Зайдите в свой клиент Discord и вставьте ссылку в поле ""Присоединиться к серверу""."
+community.discord.copytoclipboardheader,Скопировано в буфер обмена
+community.discord.description,"Присоединяйтесь к нашему активному сообществу Discord и общайтесь с пилотами Liftoff по всему миру.
 
-Follow up on live feeds of the Liftoff Pro League and ongoing multiplayer games."
-community.discussions,Discussions
-community.discussions.description,Participate in discussions about Liftoff and help other players on their way. Got a question or problem? Post it here.
+Следите за прямыми трансляциями Liftoff Pro League и текущих многопользовательских игр"""
+community.discussions,Обсуждения
+community.discussions.description,Участвуйте в обсуждениях Liftoff и помогайте другим игрокам на их пути. У вас есть вопрос или проблема? Задайте его здесь.
 community.facebook,Facebook
-community.facebook.description,Join the Liftoff Facebook community and get sneak peaks of upcoming features and updates.
-community.guides,Guides
-community.guides.description,Consult or create guides for quickly getting your drone fly-ready.
-community.news,Blog
-community.news.description,"Stay up to date on Liftoff's latest developments, changes and contests."
-community.twitter,Twitter
-community.twitter.description,Join the Liftoff Twitter community.
-community.workshop,Workshop
-community.workshop.description,"Browse content created by fellow players to expand your Liftoff experience. Download new Tracks and Races, rate them and participate in the track building community. "
-contentloader.loadingdata,Loading data
-contentsharing.bypublishingyouacknowledgeagreement,Before publishing your content on {0} you must agree to their end-user license agreement.
-contentsharing.failedtouploaditem,Failed to upload your item. Try again later.
-contentsharing.itemcannotbeshared,This item cannot be shared.
+community.facebook.description,Присоединяйтесь к сообществу Liftoff на Facebook и получайте информацию о предстоящих функциях и обновлениях.
+community.guides,Гайды
+community.guides.description,Проконсультируйтесь или создайте руководство по быстрой подготовке дрона к полетам.
+community.news,Блог
+community.news.description,"Будьте в курсе последних событий, изменений и конкурсов Liftoff."
+community.twitter,X (бывший Twitter)
+community.twitter.description,Присоединяйтесь к сообществу Liftoff в Twitter.
+community.workshop,Мастерская
+community.workshop.description,"Просмотрите материалы, созданные другими игроками, чтобы расширить свой опыт в Liftoff. Загружайте новые трассы и гонки, оценивайте их и участвуйте в сообществе создателей трасс."
+contentloader.loadingdata,Загрузка данных
+contentsharing.bypublishingyouacknowledgeagreement,Перед публикацией своего контента на {0} вы должны согласиться с их лицензионным соглашением с конечным пользователем.
+contentsharing.failedtouploaditem,Не удалось загрузить ваше творение. Повторите попытку позже.
+contentsharing.itemcannotbeshared,Этим предметом невозможно поделиться.
 contentsharing.itemsneedtobesharedfirst,The following items need to be shared first: {0}
-contentsharing.notshareable.popupheader,Cannot share
-contentsharing.processingdots,Processing...
-contentsharing.processingpercentagedots,Processing... ({0}%)
-contentsharing.shareitem,Share {0}
+contentsharing.notshareable.popupheader,Невозможно поделиться
+contentsharing.processingdots,Обработка...
+contentsharing.processingpercentagedots,Обработка... ({0}%)
+contentsharing.shareitem,Поделиться {0}
 contentsharing.sharingerror,Sharing error
 contentsharing.sharingofficielitemnotpermitted,Sharing an official Liftoff item is not permitted.
 contentsharing.sharingserviceitemnotpermitted,Sharing a {0} item is not permitted.
@@ -303,24 +303,24 @@ contentsharing.successfulupload,Successfully uploaded your item.
 contentsharing.unknownreason,Unknown reason.
 contentsharing.versionofitemcannotbeshared,This version of the item cannot be shared.
 dlc.djfpvpack.name,DJI FPV Pack
-dlc.gotostore,Buy DLC
+dlc.gotostore,Купить DLC
 dlc.hideadvertisement,Don't show me this message again.
-dlc.nightfever.multiplayeradvertisement.description,"This multiplayer room uses content of the Night Fever DLC pack.
+dlc.nightfever.multiplayeradvertisement.description,"В этой многопользовательской комнате используется содержимое пакета DLC ""Night Fever"".
 
-You can join the room flying in the regular daytime version or purchase the Night Fever DLC by clicking the button below."
-dlc.nightfever.multiplayeradvertisement.header,DLC Notice - Night Fever Content
+Вы можете присоединиться к комнате, летая в обычной дневной версии, или приобрести DLC ""Night Fever"", нажав на кнопку ниже."
+dlc.nightfever.multiplayeradvertisement.header,Уведомление о DLC - контент Night Fever
 dlc.nightfever.name,Night Fever
 dlc.slipstream.name,Slipstream
-dlc.termsofuse.header,Terms of use
-dronedetails.filter.all,All
-dronedetails.filter.official,Official blueprints
-dronedetails.filter.workshop,Workshop blueprints
-dronedetails.filter.yourdrones,Your drones
-droneeditor.backtomain.description,Do you want to return to the main menu?
-droneeditor.backtomain.header,Return to main menu
-droneeditor.conflictingparts.description,There are conflicting parts. Please solve all conflicts before saving.
-droneeditor.conflictingparts.header,Conflicting Parts
-droneeditor.dragbakedskin.description,"You've selected a skin that affects drag. When selecting a skin marked with this icon, know it will influence your drone's flight behavior."
+dlc.termsofuse.header,Условия использования
+dronedetails.filter.all,Все
+dronedetails.filter.official,Официальные чертежи
+dronedetails.filter.workshop,Чертежи мастерской
+dronedetails.filter.yourdrones,Ваши дроны
+droneeditor.backtomain.description,Хотите вернуться в главное меню?
+droneeditor.backtomain.header,Вернуться в главное меню
+droneeditor.conflictingparts.description,"Есть противоречивые детали. Пожалуйста, разрешите все конфликты перед сохранением."
+droneeditor.conflictingparts.header,Противоречивые детали
+droneeditor.dragbakedskin.description,"Вы выбрали скин, который влияет на управление дроном. Выбирая скин, отмеченный этим значком, знайте, что он будет влиять на поведение вашего дрона в полете."
 droneeditor.dragbakedskin.header,Drone Skin Drag
 droneeditor.giftboxes,Gift boxes
 droneeditor.giftboxes.description,Open up your gift boxes to unlock some cool skins and make your drone setup stand out more from the crowd!
